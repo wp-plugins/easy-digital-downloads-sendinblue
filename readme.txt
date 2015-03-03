@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: codeinwp
+Contributors: neeraj_slit,SendinBlue
 Tags:  sendinblue,edd,easydigitaldownloads
 Author URI: http://codeinwp.com 
 Requires at least: 3.5

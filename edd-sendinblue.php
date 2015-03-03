@@ -4,9 +4,9 @@ Plugin Name: Easy Digital Downloads - Sendinblue
 Plugin URL: http://easydigitaldownloads.com/extension/sendinblue
 Description: Include a Sendinblue signup option with your Easy Digital Downloads checkout
 Version: 1.0
-Author: ThemeIsle
-Author URI: http://themeisle.com
-Contributors: themeisle
+Author: neeraj_slit,SendinBlue
+Author URI: https://www.sendinblue.com
+Contributors: SendinBlue
 */
 
 // adds the settings to the Misc section
